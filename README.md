@@ -42,4 +42,4 @@ Surprisingly (or maybe not surprisingly?) the 5-star review percentage is actual
 
 To summarize project goals and findings, proper connections and data security were set up in AWS to allow us to connect and insert data into a postgres database through Google Colab and pgAdmin. Amazon review data was cleaned and used to create new dataframes, and then the vine review dataframe was used to build an understanding on review differences between paid and unpaid reviews.
 
-The analysis showed that unpaid reviews have a marginally higher 5-star rating percentage than unpaid reviews. With more work, this analysis could be pushed further to develop some even greater insights into the differences between paid and unpaid reviews .
+The analysis showed that unpaid reviews have a marginally higher 5-star rating percentage than unpaid reviews. With more work, this analysis could be pushed further to develop some even greater insights into the differences between paid and unpaid reviews.
